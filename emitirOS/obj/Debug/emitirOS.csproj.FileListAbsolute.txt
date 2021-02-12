@@ -1,0 +1,19 @@
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\bin\Debug\emitirOS.exe.config
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\bin\Debug\emitirOS.exe
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\bin\Debug\emitirOS.pdb
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\obj\Debug\emitirOS.csprojResolveAssemblyReference.cache
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\obj\Debug\emitirOS.Form1.resources
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\obj\Debug\emitirOS.Properties.Resources.resources
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\obj\Debug\emitirOS.csproj.GenerateResource.Cache
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\obj\Debug\emitirOS.exe
+c:\users\jbrun\documents\visual studio 2015\Projects\emitirOS\emitirOS\obj\Debug\emitirOS.pdb
+C:\Users\jbrun\Documents\emitirOS\emitirOS\bin\Debug\emitirOS.exe.config
+C:\Users\jbrun\Documents\emitirOS\emitirOS\bin\Debug\emitirOS.exe
+C:\Users\jbrun\Documents\emitirOS\emitirOS\bin\Debug\emitirOS.pdb
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.csprojAssemblyReference.cache
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.Form1.resources
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.Properties.Resources.resources
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.csproj.GenerateResource.cache
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.csproj.CoreCompileInputs.cache
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.exe
+C:\Users\jbrun\Documents\emitirOS\emitirOS\obj\Debug\emitirOS.pdb
